@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669251588556" clover="3.2.0">
+  <project timestamp="1669251588557" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6" elements="36" coveredelements="36" complexity="0" loc="24" ncloc="24" packages="1" files="2" classes="2"/>
+    <file name="notification.error.ts" path="/home/marcelino/projects/job-apply-counter/src/domain/error/notification.error.ts">
+      <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="10" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="16" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+    </file>
+    <file name="validation.error.ts" path="/home/marcelino/projects/job-apply-counter/src/domain/error/validation.error.ts">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>
